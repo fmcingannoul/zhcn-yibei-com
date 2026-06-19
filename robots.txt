@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fmcingannoul.github.io/zhcn-yibei-com/sitemap.xml
